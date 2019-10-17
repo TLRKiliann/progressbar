@@ -1,1 +1,1 @@
-# progressbar when start GUI app withon python3
+# progressbar when start GUI app with python3 + tkinter
